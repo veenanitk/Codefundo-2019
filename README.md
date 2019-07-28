@@ -1,5 +1,5 @@
 1. We are planning to build an Android Application with the following features:
-2. Main Components of our app
+2. Main Components of our application
 
    a) **Voter Account Management** :  
         Registering a New User and verifying his details, while login from user credentials and using OTP *two-factor-        authentication*.
