@@ -7,7 +7,8 @@
         Information Regarding the current election status in the user's constituency, as well as the parties manifesto, will be provided.
         
    b) **Blockchain-Based Voting Manager** : 
-       **Double Voting Prevention** : This submodule safeguards the system against double voting, by associating it with a flag. This verification is deployed on the blockchain.
+   
+      **Double Voting Prevention** : This submodule safeguards the system against double voting, by associating it with a flag. This verification is deployed on the blockchain.
         
      **Vote Transaction** : The presence of user shall be verified by his fingerprint and vote cast by this user is recorded in the blockchain.
         
