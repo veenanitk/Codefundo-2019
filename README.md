@@ -8,8 +8,8 @@
         
    b) **Blockchain-Based Voting Manager** : 
        **Double Voting Prevention** : This submodule safeguards the system against double voting, by associating it with a flag. This verification is deployed on the blockchain.
-       
-        **Vote Transaction** : The presence of user shall be verified by his fingerprint and vote cast by this user is recorded in the blockchain.
+        
+     **Vote Transaction** : The presence of user shall be verified by his fingerprint and vote cast by this user is recorded in the blockchain.
         
    c) *Unique feature* to attract the voters is by providing them some credits after casting the votes. These credits can be used for the discount in government services such as Electricity bill, Telephone bill, Adhaar update, etc.
    
