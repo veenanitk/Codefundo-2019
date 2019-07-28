@@ -17,4 +17,4 @@
 3. User can save their time and energy spent in standing in the queue. It is also beneficial for *senior citizens* and *physically disabled people*. People who are not present in their constituencies like *students and job professionals* can also cast their vote using the same application. Special securities given to *famous personalities* can also be avoided.
 
 4. Database will store details about voters like voter-id number, Name, Password, Phone number, City, State, etc.
-5. We will build the app interface using Android studio and will write the code in `JAVA` and `XML`.The database will be managed using `MySQL` and deployed in `Azure`. Voting will be handled using `blockchain`.
+5. We will build the app interface using `Android studio` and will write the code in `JAVA` and `XML`.The database will be managed using `MySQL` and deployed in `Azure`. Voting will be handled using `blockchain`.
